@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "637557285858",
+    "project_id": "merge-puzzle-f40e6",
+    "storage_bucket": "merge-puzzle-f40e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637557285858:android:43a0c6fca480355d678fbb",
+        "android_client_info": {
+          "package_name": "in.banrossyn.merge.game2048"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637557285858-91jlfovtqvfcd5743c2nda09s0anjvg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl9cAUPBE5U7ypudnCgt1Bqj1nLJHdD88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637557285858-91jlfovtqvfcd5743c2nda09s0anjvg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
